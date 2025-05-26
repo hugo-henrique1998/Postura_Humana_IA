@@ -54,7 +54,7 @@ Este repositório contém uma Prova de Conceito (PoC) para um sistema de visão 
 - Swagger para documentação
 - Docker e docker-compose para execução
 
-📂 Diretório: `AT3_API_Sistema/` (em construção)
+📂 Diretório: `AT3/` (em construção)
 
 ## ⚙️ Instruções Gerais
 
